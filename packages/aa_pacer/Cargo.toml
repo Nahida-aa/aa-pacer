@@ -1,0 +1,7 @@
+[package]
+name = "aa_pacer"
+version = "0.1.0"
+edition = "2024"
+description = "Dependency-free sync/async retryer aligned to @tanstack/pacer"
+
+[dependencies]
